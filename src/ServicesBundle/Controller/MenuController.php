@@ -18,15 +18,15 @@ class MenuController
                $this->menu = [
                     [
                         "url"   => "/test1",
-                        "nom"   => "menu1x",
+                        "nom"   => "menu1xx",
                     ],
                     [
                         "url"   => "/test2",
-                        "nom"   => "menu2x",
+                        "nom"   => "menu2xx",
                     ],
                     [
                         "url"   => "/test3",
-                        "nom"   => "menu3x",
+                        "nom"   => "menu3xx",
                     ],
                ];
                break;
