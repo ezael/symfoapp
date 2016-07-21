@@ -1,0 +1,9 @@
+# Twig Configuration
+twig:
+    debug:            "%kernel.debug%"
+    strict_variables: "%kernel.debug%"
+    globals:
+        skin:              "skin-blue"
+        alerte_fadeout:    5000
+        app_name_mini:     "iOne"
+        app_name:          "ERP iOne"
